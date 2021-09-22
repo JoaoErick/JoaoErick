@@ -1,5 +1,7 @@
-## Olá! Eu sou João Erick
+## Olá, Eu sou João Erick!
 
+### Estudante de Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS).
+ <br>
  <div>
   <a href="https://github.com/JoaoErick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoErick&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
