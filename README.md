@@ -1,6 +1,11 @@
 ## Olá, Eu sou João Erick!
 
-### Estudante de Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS).
+### • Estudante de Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)
+
+### • Desenvolvedor Back-end 
+
+### • Membro do Laboratório de Redes e Sistemas Distribuídos
+
  <br>
  <div>
   <a href="https://github.com/JoaoErick">
