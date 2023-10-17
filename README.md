@@ -11,10 +11,10 @@ Sou um estudante de Engenharia de Computação pela Universidade Estadual de Fei
 - Conhecimentos em Git e controle de versão.
 
  <br>
- <div>
-  <a href="https://github.com/JoaoErick">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoErick&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoErick&layout=compact&langs_count=7&theme=nord"/>
+ <div align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=JoaoErick&show_icons=true&count_private=true&theme=slateorange&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoErick&layout=compact&hide_border=true&theme=slateorange&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=JoaoErick&theme=slateorange&hide_border=true&background=FFFFFF00">
 </div>
   
 ## 📫 Entre em Contato
