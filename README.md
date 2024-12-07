@@ -1,11 +1,12 @@
 ## Olá, Eu sou João Erick!👋
 
-Sou um estudante de Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS), com foco em desenvolvimento back-end. Atualmente, sou membro ativo do Laboratório de Redes e Sistemas Distribuídos.
+Sou Engenheiro de Computação pela Universidade Estadual de Feira de Santana (UEFS), com foco em desenvolvimento de software full-stack. Fui pesquisador científico por mais de 2 anos do Laboratório de Redes e Sistemas Distribuídos.
 
 ## 💻 Experiência e Habilidades
 
 - Desenvolvimento de aplicativos e serviços back-end utilizando linguagens como Python, Java e NodeJs.
 - Conhecimento em frameworks como Django, Laravel e Fastify.
+- Construção de interfaces front-end com ReactJs e Next.js.
 - Familiaridade com bancos de dados relacionais, como MySQL e PostgreSQL.
 - Experiência com integração de APIs e desenvolvimento de serviços web RESTful.
 - Conhecimentos em Git e controle de versão.
